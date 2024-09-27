@@ -6,7 +6,7 @@
 <p align="center">Status : 🟢</p>
 <p align="center">Version: 1.0.1 Beta</p>
 <div align="center">
-  <a href="https://github.com/meoawjidevfz/Flexer/tree/main/UI/bin/Debug/net8.0-windows">Download now !</a>
+  <a href="https://github.com/meoawjidevfz/Flexer/raw/refs/heads/main/UI/bin/Debug/net8.0-windows.rar">Download now !</a>
 </div>
 <h3 align="center">Executor Info</h3>
 <p align="center">Now unc is : 100 % and Level : 8</p>

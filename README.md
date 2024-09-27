@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1271657127307513914/1285817307322650645/F_logo_white.png?ex=66f783af&is=66f6322f&hm=c6b8b81db57120f5f68fe698caf326a79745972b51a6ee6d6c7fee5705b2679c&" alt="Flexer Executor Screenshot" style="max-width: 100%; height: auto;">
+</div>
 <h1 align="center">Flexer Executor</h1>
 
 <p align="center">Status : 🟢</p>

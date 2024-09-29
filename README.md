@@ -4,7 +4,7 @@
 <h1 align="center">Flexer Executor</h1>
 
 <p align="center">Status : 🟢</p>
-<p align="center">Version: 1.0.1 Beta</p>
+<p align="center">Version: 1.0.1 Release</p>
 <div align="center">
   <a href="https://github.com/meoawjidevfz/Flexer/releases/download/1.0.1/Flexer.zip">Download now !</a>
 </div>

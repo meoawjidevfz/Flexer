@@ -4,9 +4,9 @@
 <h1 align="center">Flexer Executor</h1>
 
 <p align="center">Status : 🟢</p>
-<p align="center">Version: 1.0.1 Release</p>
+<p align="center">Version: 1.0.2 Release</p>
 <div align="center">
-  <a href="https://github.com/meoawjidevfz/Flexer/releases/download/1.0.1/Flexer.zip">Download now !</a>
+  <a href="https://github.com/meoawjidevfz/Flexer/releases/download/1.0.2/Flexer.zip">Download now !</a>
 </div>
 <h3 align="center">Executor Info</h3>
 <p align="center">Now unc is : 100 % and Level : 8</p>
